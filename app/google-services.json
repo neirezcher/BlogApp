@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "761101400128",
+    "project_id": "bloggi-16fd2",
+    "storage_bucket": "bloggi-16fd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761101400128:android:478074865c23f146a787a5",
+        "android_client_info": {
+          "package_name": "com.chedly.bloggi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761101400128-ob9dak5r601mhbr5f4o913dnmvit7rhb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chedly.bloggi",
+            "certificate_hash": "aefea0472b6df6e32aeb44945445367b43e3e08d"
+          }
+        },
+        {
+          "client_id": "761101400128-j5l3rads90f02c9n1l62vs3111mf9hel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCojdLEDPlO9eScGL1ltgOlbsOzrlljwio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761101400128-j5l3rads90f02c9n1l62vs3111mf9hel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
